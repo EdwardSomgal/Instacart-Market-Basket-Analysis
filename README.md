@@ -16,15 +16,15 @@ This project presents a comprehensive analysis of Instacart’s sales data, aimi
 * How do ordering habits differ among various customer profiles?
 
 ## Folders
-Description of folder contents are as follows:
+The folder structure is described as follows:
 
-    01 Project Management: Contains the project brief and related documentation.
-    02 Data: Includes two subfolders: (Data not uploaded to GitHub due to size limitations.)
-        'Original Data': Original datasets.
-        'Prepared Data': Cleaned data ready for analysis.
-    03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
-    04 Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
-    05 Sent to Client: Final Excel presentation.
+    01 Project Management: Contains project brief and related documents.
+    02 Data:
+        Original Data: Raw datasets (not uploaded to GitHub).
+        Prepared Data: Cleaned datasets for analysis.
+    03 Scripts: Python code in Jupyter notebooks for analysis.
+    04 Analysis: Visualizations folder with charts used for insights and exploratory analysis.
+    05 Sent to Client: Final presentation in Excel format.
 
 ## Disclaimer
 This is a data analysis project for Instacart (IC) to uncover sales patterns by performing initial data and exploratory analysis. Note: Customer data is fictitious and is sourced from Kaggle and used for the purposes of CareerFoundry's Data Analytics Program.
