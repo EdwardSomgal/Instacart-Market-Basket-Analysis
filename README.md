@@ -26,5 +26,14 @@ The folder structure is described as follows:
     04 Analysis: Visualizations folder with charts used for insights and exploratory analysis.
     05 Sent to Client: Final presentation in Excel format.
 
+## Code Overview
+Code was written in Python and executed in Jupyter Notebooks using following libraries:
+* Pandas: For data manupulation and analysis
+* Numpy: for numerical operations
+* OS: to access the files and directory operations using system OS
+* Matplotlib:To create visualization
+* Seaborn: For statistical data visualizations
+* Matplotlib.pyplot: To create static, animated and interactive visualizations
+  
 ## Disclaimer
 This is a data analysis project for Instacart (IC) to uncover sales patterns by performing initial data and exploratory analysis. Note: Customer data is fictitious and is sourced from Kaggle and used for the purposes of CareerFoundry's Data Analytics Program.
