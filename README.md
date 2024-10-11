@@ -1,4 +1,5 @@
-# Instacart-Market-Basket-Analysis
+# Instacart-Market-Basket-Analysis ![Instacart_Carrot](https://github.com/user-attachments/assets/735686d8-adb2-4a10-8cee-460c3a25ecc5)
+
 
 ## Project Overview
 This project presents a comprehensive analysis of Instacart’s sales data, aiming to uncover key customer buying trends. As an Instacart analyst, the focus is on generating actionable insights to guide marketing strategies. The analysis identifies peak shopping times, spending habits, and product popularity across departments. Additionally, customer segmentation explores variations in behavior based on loyalty, region, age, income, and family status. These insights will help shape more effective marketing campaigns, enhancing customer engagement, boosting sales, and tailoring promotions to diverse consumer needs.
