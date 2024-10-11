@@ -1,4 +1,5 @@
-# Instacart-Market-Basket-Analysis ![Instacart_Carrot](https://github.com/user-attachments/assets/735686d8-adb2-4a10-8cee-460c3a25ecc5)
+# Instacart-Market-Basket-Analysis 
+
 
 
 ## Project Overview
